@@ -1,4 +1,4 @@
-# Recursive Estimation Portfolio Project
+# Recursive Estimation Tracking Project
 
 This folder contains my estimator implementation for a recursive-estimation
 tracking project. The goal was to estimate a hidden 9-dimensional motion state
@@ -81,17 +81,6 @@ That means this folder is mainly for portfolio/review purposes rather than a
 standalone runnable package.
 
 ## Visualizations
-
-When generated, the expected plot files are:
-
-```text
-visuals/plot_3d.png
-visuals/plot_ekf.png
-visuals/plot_nge.png
-```
-
-These show the reconstructed trajectory and filter behavior from simulation
-runs.
 
 Typical interpretation:
 
