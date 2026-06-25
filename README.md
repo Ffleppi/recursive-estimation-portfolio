@@ -82,6 +82,18 @@ standalone runnable package.
 
 ## Visualizations
 
+### 3D Trajectory
+
+![3D trajectory](visuals/plot_3d.png)
+
+### Gaussian EKF
+
+![Gaussian EKF estimate](visuals/plot_ekf.png)
+
+### Robust Non-Gaussian Filter
+
+![Robust non-Gaussian estimate](visuals/plot_nge.png)
+
 Typical interpretation:
 
 - `plot_3d.png` shows the reconstructed 3D trajectory.
